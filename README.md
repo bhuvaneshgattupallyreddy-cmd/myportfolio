@@ -1,6 +1,6 @@
 # myportfolio
 
-my personal website, built with html and tailwind.
+my personal website 
+ i am already a bit good with html so lite work you better read it allllll
 
-- a bit about me and what i like
-- i added a lot u better read it all
+took me an hour but ezzyyyyyyyy u will learn a lot abt me ok
